@@ -53,7 +53,7 @@ export const mainMenus = [
   },
   {
     key: SECTIONS.PROFILE,
-    label: 'IT_Jobs Profile',
+    label: 'IT Jobs Profile',
     icon: <BusinessOutlinedIcon fontSize="small" />
   },
   {
@@ -153,7 +153,7 @@ const JobSeeker = () => {
     <Stack direction="row" alignItems="center" spacing={1} pt={2}>
       <SvgIcon sx={{ fontSize: 100 }} component={Logo} inheritViewBox />
       <Typography variant="h6" fontWeight="bold" color="primary">
-        IT_Jobs
+        IT Jobs
       </Typography>
     </Stack>
 

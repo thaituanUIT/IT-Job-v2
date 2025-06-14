@@ -21,7 +21,7 @@ function VerifyAgain() {
         <Box sx={{ display: "flex", gap: 2, alignItems: "center" }}>
           <SvgIcon sx={{ color: "primary.main",  fontSize: 70  }} component={logo} inheritViewBox />
           <Typography variant="h4" sx={{ color: "primary.main", fontWeight: "bold" }}>
-            IT_Jobs
+            IT Jobs
           </Typography>
         </Box>
       

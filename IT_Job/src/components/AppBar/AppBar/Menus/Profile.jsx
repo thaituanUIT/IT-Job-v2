@@ -107,7 +107,7 @@ function Profile() {
           <ListItemIcon>
             <FactCheckOutlinedIcon fontSize="small" />
           </ListItemIcon>
-          IT_Jobs Profile
+          IT Jobs Profile
         </MenuItem>
         
         <MenuItem

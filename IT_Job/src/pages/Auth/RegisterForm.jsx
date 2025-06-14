@@ -391,7 +391,7 @@ const [bannerImage, setBannerImage] = useState("https://res.cloudinary.com/sonph
               }
               label={
                 <Typography variant="caption">
-                  I have read and agree to IT_Jobs's{" "}
+                  I have read and agree to IT Jobs's{" "}
                   <Link style={{ color: "#0052cc", textDecoration: "none" }}>Terms & Conditions</Link> and{" "}
                   <Link style={{ color: "#0052cc", textDecoration: "none" }}>Privacy Policy</Link> in relation to my
                   personal information.

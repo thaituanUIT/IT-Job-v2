@@ -24,7 +24,7 @@ function PageLoading({ caption }) {
         <Box sx={{ display: "flex", gap: 2, alignItems: "center" }}>
           <SvgIcon sx={{ color: "#1e88e5",  fontSize: 150  }} component={Logo} inheritViewBox />
           <Typography variant="h4" sx={{ color: "#db2d2a", fontWeight: "bold" }}>
-            IT_Jobs
+            IT Jobs
           </Typography>
         </Box>
       

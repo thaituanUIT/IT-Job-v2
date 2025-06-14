@@ -56,7 +56,7 @@ function AppBar() {
             variant="h6"
             sx={{ color: "white", fontWeight: "bold" }}
           >
-            IT_Jobs
+            IT Jobs
           </Typography>
         </Box>
         <Box sx={{display: {xs: 'none', md: 'flex'}, gap: 0.8, marginLeft: 3 ,alignItems: 'center'}}>

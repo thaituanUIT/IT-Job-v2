@@ -47,7 +47,7 @@ const Footer = () => {
 
       <Box sx={{ borderTop: "1px solid white", mt: 3, pt: 2, textAlign: "center" }}>
         <Typography variant="body2" sx={{ fontSize: 12, fontWeight:'bold', color:'gray' }}>
-          Copyright @ SonPham UIT
+          Copyright @ Team 18
         </Typography>
       </Box>
       

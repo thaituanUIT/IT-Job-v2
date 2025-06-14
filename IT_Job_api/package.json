@@ -1,8 +1,8 @@
 {
-  "name": "nodejs-expressjs-mongodb-base-project",
+  "name": "job-website",
   "private": true,
   "version": "1.0.0",
-  "author": "SonPham It_Job",
+  "author": "Team18",
   "description": "",
   "engines": {
     "node": "20.x"

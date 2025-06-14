@@ -58,7 +58,7 @@ function CustomeAppBar() {
         <Box onClick={() => navigate('/')} sx={{ display: "flex", alignItems: "center", gap: 0.5, textDecoration: "none", cursor: 'pointer' }}>
           <SvgIcon sx={{ color: "white", fontSize: 70 }} component={Logo} inheritViewBox />
           <Typography variant="h6" sx={{ color: "white", fontWeight: "bold" }}>
-            IT_Jobs
+            IT Jobs
           </Typography>
         </Box>
         <Box sx={{ display: { xs: "none", md: "flex" }, gap: 1, marginLeft: 3, alignItems: "center" }}>
